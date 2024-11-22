@@ -1,4 +1,4 @@
-# Data Cleaning - Retail Dataset
+# Limpeza de Dados em Conjunto de Varejo
 
 Este repositório demonstra o processo de análise e limpeza de dados de um conjunto fictício de varejo, simulando inconsistências comuns como:
 
